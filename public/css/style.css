@@ -268,9 +268,16 @@ body {
   }
 
 
+  .outer{
+   
+    
 
 
-  @media screen and (max-width: 767px) {
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow for visual effect */
+
+}
+
+  @media screen and (max-width: 768px) {
     
     /* #filters {
         flex-direction: column;
@@ -288,9 +295,25 @@ body {
         width: 80%;
         /* height: 15rem; */
     }
+
+    .review-box{
+        width: 150px; /* Makes the review box take full width */ /* Center the review box */
+        /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow for visual effect */
+        border-radius: 5px; 
+    }
+
+    .outer{
+        width: 180px !important;
+        
+
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds shadow for visual effect */
+    border-radius: 5px; /* Optional: Rounds the corners */
+    }
+
     #map{
         height: 200px;
-        width: 300px;
+        width: 200px;
     }
     .collapse{
         text-align: center;
@@ -305,6 +328,15 @@ body {
         width: 80%;
         margin-inline: auto;
     }
+    .dlt-btn{
+        margin-left: 0;
+    }
+    .buttons{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    
 }
 
 
