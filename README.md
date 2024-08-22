@@ -26,7 +26,8 @@
         </ol>
   <p>Furthermore, I’ve integrated some of the most effective tools outlined here.</p>
   <ul>  
-    <li><strong>Bootstrap </strong>for responsive front-end framework</li>
+          <li><strong>Model-View-Controller (MVC) </strong>to structure and organize code.</li>
+    <li><strong>Bootstrap </strong>for responsive front-end framework.</li>
             <li><strong>Passport.js </strong>for robust user authentication.</li>
             <li><strong>Cloudinary </strong>for seamless image storage and management.</li>
             <li><strong>MapLibre </strong>to create interactive maps for location visualization.</li>
@@ -48,7 +49,7 @@
          <h2>Usage</h2>
          <strong>Discover more on my <a href="https://wanderlust-1-b7ul.onrender.com/listings">website</a>.</strong>
     <br><br>
-        <i><p>Keep in mind I’ve hosted my project on a free hosting platform so the website might take longer to load.</p></i>
+        <i><p>Keep in mind I’ve hosted my project on a free hosting platform so the website might take longer to load. Still it’s fully functional and accessible for users to explore. For an optimal experience, please be patient as the content loads.</p></i>
  
 
 
